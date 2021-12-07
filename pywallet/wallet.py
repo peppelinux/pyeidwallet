@@ -130,7 +130,8 @@ class MyWallet:
         )
         result = await verify(**_data)
         return result
-        
+
+
 if __name__ == '__main__':
     import asyncio
     import json
