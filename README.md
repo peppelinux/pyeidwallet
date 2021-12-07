@@ -271,6 +271,7 @@ references
 
 - [BBS+ Signatures 2020](https://w3c-ccg.github.io/ldp-bbs2020/)
 - [Verifiable Credentials Implementation Guidelines 1.0](https://w3c.github.io/vc-imp-guide/#zero-knowledge-proofs)
+- [Verifiable Credentials Data Model v1.1](https://w3c.github.io/vc-data-model/)
 
 authors
 -------
