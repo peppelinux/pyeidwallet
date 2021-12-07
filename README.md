@@ -214,7 +214,8 @@ result = asyncio.derive(mw.verify(jdoc = doc[0], reveal_doc = doc[1]))
 
 <details>
   <summary>Result of derivation</summary>
-````
+
+````python
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
