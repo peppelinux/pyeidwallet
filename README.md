@@ -212,7 +212,7 @@ doc = [
 </details>
 
 ````
-result = asyncio.derive(mw.verify(jdoc = doc[0], reveal_doc = doc[1]))
+result = asyncio.run(mw.derive(jdoc = doc[0], reveal_doc = doc[1]))
 ````
 
 <details>
